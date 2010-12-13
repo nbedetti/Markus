@@ -4,14 +4,14 @@
 <link href="colorsphere.css" rel="stylesheet" type="text/css" /> 
 
    <div id="mini" onmousedown="Picker.core('mini',event)">
-	<div class="north"><span id="mHEX">FFFFFF</span><div onmousedown="\$S('mini').display='none';">X</div></div>
+	<div class="north"><div id="mHEX">FFFFFF</div><div onmousedown="\$S('mini').display='none';">X</div></div>
 	<div class="south" id="mSpec" style="HEIGHT: 128px; WIDTH: 128px;" onmousedown="Picker.core('mCur',event)">
 	 <div id="mCur" style="TOP: 86px; LEFT: 68px;"></div>
 	 <img src="/home/noe/Sites/Markus/public/images/circle.png" onmousedown="return false;" ondrag="return false;" onselectstart="return false;">
 	 <img src="/home/noe/Sites/Markus/public/images/resize.gif" id="mSize" onmousedown="Picker.core('mSize',event); return false;" ondrag="return false;" onselectstart="return false;">
 	</div>
    </div>
-   <div id="plugID" style="display:none"></div>
+   <div id="plugID" ></div>
 
 </div>
 

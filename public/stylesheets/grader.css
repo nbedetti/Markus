@@ -168,7 +168,15 @@ li.annotation_category {
 		min-width: 200px;
 		min-height: 200px;
   }
-
+#selected_color {
+		HEIGHT: 10px;
+		WIDTH: 025px; 
+		MARGIN: 12px 0 0 170px; 
+		PADDING-TOP: 10px; 
+		COLOR: #000; 
+		BORDER: 1px solid #333; 
+		FONT-SiZE: 10px; 
+}
 
   #pane_divider {
     background: #EEEEEE url(/images/handle.png) no-repeat 50%;

@@ -12,6 +12,6 @@
 #mini #mHEX { padding: 5px 0 4px 7px; cursor: text; float: left; }
 #mini #mHEX:hover { color: #DE83AD }
 #mini #mSize { float: right; top: -14px; left: 7px; height: 14px; width: 14px; cursor: se-resize }
-#PlugId {HEIGHT: 1px; WIDTH: 025px; MARGIN: 12px 0 0 170px; PADDING-TOP: 60px; COLOR: #000; BORDER: 1px solid #333; FONT-SiZE: 25px; BACKGROUND: #333;}
+#PlugId {HEIGHT: 10px; WIDTH: 025px; MARGIN: 12px 0 0 170px; PADDING-TOP: 10px; COLOR: #000; BORDER: 1px solid #333; FONT-SiZE: 25px; BACKGROUND: #333;}
 
 
