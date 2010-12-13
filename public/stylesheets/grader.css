@@ -158,6 +158,18 @@ li.annotation_category {
   overflow: auto;
 }
 
+
+#Color_picker {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		width: 100%;
+		height: 100%;
+		min-width: 200px;
+		min-height: 200px;
+  }
+
+
   #pane_divider {
     background: #EEEEEE url(/images/handle.png) no-repeat 50%;
     float:left;
@@ -181,6 +193,8 @@ li.annotation_category {
     width: 60%;
    /* width: 536px;*/
   }
+
+
 
   #mark_pane {
    width: 34%;
